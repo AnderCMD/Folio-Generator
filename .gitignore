@@ -52,6 +52,6 @@ yarn-error.log
 .DS_Store
 Thumbs.db
 
-# ESLint and Prettier configuration files
-.eslintrc.json
-.prettierrc.json
+# Python bytecode (leftover from local tooling)
+__pycache__/
+*.pyc
