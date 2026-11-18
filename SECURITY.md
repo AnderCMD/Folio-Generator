@@ -13,7 +13,7 @@ The latest published version of `folio-generator-js` and `folio-generator-ts` on
 
 If you discover a security vulnerability, please **do not** open a public GitHub issue.
 
-Instead, report it privately using [GitHub's private vulnerability reporting](https://github.com/AnderCMD/Generador-de-folios/security/advisories/new) for this repository.
+Instead, report it privately using [GitHub's private vulnerability reporting](https://github.com/AnderCMD/Folio-Generator/security/advisories/new) for this repository.
 
 Please include:
 
