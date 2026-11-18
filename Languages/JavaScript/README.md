@@ -89,4 +89,4 @@ Synchronously calculates the next folio in the sequence without checking for col
 
 ## License
 
-MIT
+Apache License 2.0 - see [LICENSE](LICENSE).
