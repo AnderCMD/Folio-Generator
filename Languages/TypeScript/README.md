@@ -78,7 +78,7 @@ Synchronously calculates the next folio in the sequence.
 
 ## License
 
-MIT
+Apache License 2.0 - see [LICENSE](LICENSE).
 
 ## Development
 
