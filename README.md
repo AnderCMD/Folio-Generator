@@ -7,7 +7,7 @@
 [![JS downloads](https://img.shields.io/npm/dm/folio-generator-js?label=JS%20downloads&logo=npm&color=cb3837)](https://www.npmjs.com/package/folio-generator-js)
 [![TS npm](https://img.shields.io/npm/v/folio-generator-ts?label=TS%20npm&logo=npm&color=3178c6)](https://www.npmjs.com/package/folio-generator-ts)
 [![TS downloads](https://img.shields.io/npm/dm/folio-generator-ts?label=TS%20downloads&logo=npm&color=3178c6)](https://www.npmjs.com/package/folio-generator-ts)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](LICENSE)
 
 A robust library to generate sequential alphanumeric codes (folios) like `A00001`, `A00002`, ..., `Z99999`, `AA00001`.
 
@@ -42,4 +42,4 @@ If you discover a security vulnerability, please follow the process described in
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
