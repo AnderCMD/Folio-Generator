@@ -1,6 +1,6 @@
 # Folio Generator
 
-[![CI](https://github.com/AnderCMD/Generador-de-folios/actions/workflows/ci.yml/badge.svg)](https://github.com/AnderCMD/Generador-de-folios/actions/workflows/ci.yml)
+[![CI](https://github.com/AnderCMD/Folio-Generator/actions/workflows/ci.yml/badge.svg)](https://github.com/AnderCMD/Folio-Generator/actions/workflows/ci.yml)
 [![Wallaby.js](https://img.shields.io/badge/wallaby.js-powered-blue.svg?style=for-the-badge&logo=github)](https://wallabyjs.com/oss/)
 
 [![JS npm](https://img.shields.io/npm/v/folio-generator-js?label=JS%20npm&logo=npm&color=cb3837)](https://www.npmjs.com/package/folio-generator-js)
